@@ -1,0 +1,33 @@
+rank,conference,schls,w,l,w-l%,srs,sos,ap,ncaa,ff,regular_season_champ,tournament_champ,year
+1,Big 12 Conference,10,215,131,0.621,17.44,11.26,1,6,0,Kansas,Iowa State,2017
+2,Pac-12 Conference,12,238,168,0.586,9.33,6.73,1,4,1,"Arizona, Oregon",Arizona,2017
+3,Big East Conference,10,203,135,0.601,13.19,9.11,1,7,0,Villanova,Villanova,2017
+4,Southeastern Conference,14,274,202,0.576,11.72,8.82,0,5,1,Kentucky,Kentucky,2017
+5,Big Ten Conference,14,288,192,0.6,12.64,8.75,0,7,0,Purdue,Michigan,2017
+6,American Athletic Conference,11,199,163,0.55,6.2,4.11,0,2,0,Southern Methodist,Southern Methodist,2017
+7,West Coast Conference,10,184,147,0.556,3.01,1.94,0,2,1,Gonzaga,Gonzaga,2017
+8,Atlantic 10 Conference,14,250,211,0.542,3.8,2.66,0,3,0,Dayton,Rhode Island,2017
+9,Colonial Athletic Association,10,171,156,0.523,-1.22,-1.27,0,1,0,UNC Wilmington,UNC Wilmington,2017
+10,Mid-American Conference,12,211,185,0.533,-1.26,-1.67,0,1,0,"Akron (East), Ball State (West), Western Michigan (West)",Kent State,2017
+11,Western Athletic Conference,8,139,124,0.529,-4.37,-2.66,0,1,0,Cal State Bakersfield,New Mexico State,2017
+12,Atlantic Sun Conference,8,131,131,0.5,-7.21,-4.85,0,1,0,Florida Gulf Coast,Florida Gulf Coast,2017
+13,Atlantic Coast Conference,15,320,196,0.62,14.66,9.67,0,9,1,North Carolina,Duke,2017
+14,Southern Conference,10,172,160,0.518,-3.6,-2.17,0,1,0,"East Tennessee State, Furman, UNC Greensboro",East Tennessee State,2017
+15,America East Conference,9,148,147,0.502,-6.66,-5.01,0,1,0,Vermont,Vermont,2017
+16,Conference USA,14,224,228,0.496,-3.26,-2.42,0,1,0,Middle Tennessee,Middle Tennessee,2017
+17,Big Sky Conference,12,174,210,0.453,-7.72,-5.16,0,1,0,North Dakota,North Dakota,2017
+18,Metro Atlantic Athletic Conference,11,179,186,0.49,-4.32,-3.32,0,1,0,Monmouth,Iona,2017
+19,Missouri Valley Conference,10,172,155,0.526,3.48,2.62,0,1,0,"Illinois State, Wichita State",Wichita State,2017
+20,Summit League,9,143,141,0.504,-3.3,-1.85,0,1,0,South Dakota,South Dakota State,2017
+21,Mountain West Conference,11,202,162,0.555,2.95,1.92,0,1,0,Nevada,Nevada,2017
+22,Horizon League,10,169,164,0.508,-3.63,-2.42,0,1,0,"Oakland, Valparaiso",Northern Kentucky,2017
+23,Ivy League,8,111,117,0.487,-3.17,-2.5,0,1,0,Princeton,Princeton,2017
+24,Sun Belt Conference,12,217,189,0.534,-2.8,-2.6,0,1,0,UT Arlington,Troy,2017
+25,Big South Conference,10,160,165,0.492,-9.36,-6.04,0,1,0,"UNC Asheville, Winthrop",Winthrop,2017
+26,Northeast Conference,10,133,186,0.417,-10.26,-6.52,0,1,0,Mount St. Mary's,Mount St. Mary's,2017
+27,Patriot League,10,151,169,0.472,-5.0,-3.52,0,1,0,Bucknell,Bucknell,2017
+28,Big West Conference,9,126,160,0.441,-7.63,-3.78,0,1,0,UC Irvine,UC Davis,2017
+29,Ohio Valley Conference,12,182,196,0.481,-5.19,-3.34,0,1,0,"Belmont (East), Tennessee-Martin (West)",Jacksonville State,2017
+30,Southland Conference,13,202,209,0.491,-9.35,-5.82,0,1,0,New Orleans,New Orleans,2017
+31,Mid-Eastern Athletic Conference,13,156,259,0.376,-16.34,-9.42,0,1,0,North Carolina Central,North Carolina Central,2017
+32,Southwest Athletic Conference,10,123,199,0.382,-17.06,-10.16,0,1,0,Texas Southern,Texas Southern,2017

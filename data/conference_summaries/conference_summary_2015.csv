@@ -1,0 +1,34 @@
+rank,conference,schls,w,l,w-l%,srs,sos,ap,ncaa,ff,regular_season_champ,tournament_champ,year
+1,Pac-12 Conference,12,242,166,0.593,9.74,6.59,1,4,0,Arizona,Arizona,2015
+2,Big 12 Conference,10,209,128,0.62,14.05,9.03,1,7,0,Kansas,Iowa State,2015
+3,Big East Conference,10,199,136,0.594,12.2,8.51,1,6,0,Villanova,Villanova,2015
+4,West Coast Conference,10,179,147,0.549,5.07,3.84,0,2,0,Gonzaga,Gonzaga,2015
+5,Big Ten Conference,14,287,191,0.6,12.22,8.02,0,7,2,Wisconsin,Wisconsin,2015
+6,Atlantic 10 Conference,14,250,209,0.545,4.43,3.32,0,3,0,Davidson,Virginia Commonwealth,2015
+7,Southeastern Conference,14,276,198,0.582,10.65,7.51,0,5,1,Kentucky,Kentucky,2015
+8,Atlantic Coast Conference,15,316,200,0.612,12.33,8.06,0,6,1,Virginia,Notre Dame,2015
+9,Mid-American Conference,12,216,176,0.551,1.2,-0.07,0,1,0,"Buffalo (East), Kent State (East), Central Michigan (West)",Buffalo,2015
+10,Horizon League,9,148,146,0.503,-1.69,-0.54,0,1,0,Valparaiso,Valparaiso,2015
+11,Conference USA,14,234,222,0.513,-1.42,-0.75,0,1,0,Louisiana Tech,UAB,2015
+12,Big Sky Conference,12,178,199,0.472,-7.1,-4.56,0,1,0,"Eastern Washington, Montana",Eastern Washington,2015
+13,Metro Atlantic Athletic Conference,11,166,189,0.468,-3.75,-2.93,0,1,0,Iona,Manhattan,2015
+14,America East Conference,9,125,160,0.439,-7.79,-4.73,0,1,0,Albany (NY),Albany (NY),2015
+15,Big West Conference,9,148,143,0.509,-0.76,0.09,0,1,0,UC Davis,UC Irvine,2015
+16,Southern Conference,10,157,165,0.488,-6.24,-4.07,0,1,0,Wofford,Wofford,2015
+17,Atlantic Sun Conference,8,125,135,0.481,-9.1,-5.79,0,1,0,North Florida,North Florida,2015
+18,Mountain West Conference,11,195,163,0.545,1.69,1.32,0,3,0,"Boise State, San Diego State",Wyoming,2015
+19,Independent,1,21,12,0.636,-3.21,-4.07,0,0,0,,,2015
+20,Patriot League,10,154,161,0.489,-5.35,-3.55,0,1,0,Bucknell,Lafayette,2015
+21,Summit League,9,141,143,0.496,-4.83,-3.21,0,1,0,"North Dakota State, South Dakota State",North Dakota State,2015
+22,Missouri Valley Conference,10,187,150,0.555,2.25,1.5,0,2,0,Wichita State,Northern Iowa,2015
+23,American Athletic Conference,11,200,164,0.549,3.35,2.29,0,2,0,Southern Methodist,Southern Methodist,2015
+24,Northeast Conference,10,140,175,0.444,-7.99,-5.04,0,1,0,St. Francis (NY),Robert Morris,2015
+25,Western Athletic Conference,8,115,144,0.444,-8.14,-4.59,0,1,0,New Mexico State,New Mexico State,2015
+26,Ivy League,8,122,116,0.513,-1.99,-1.76,0,1,0,"Harvard, Yale",,2015
+27,Colonial Athletic Association,10,157,168,0.483,-3.02,-2.07,0,1,0,"James Madison, Northeastern, UNC Wilmington, William & Mary",Northeastern,2015
+28,Sun Belt Conference,11,181,172,0.513,-4.4,-3.48,0,1,0,Georgia State,Georgia State,2015
+29,Big South Conference,11,181,179,0.503,-7.69,-5.41,0,1,0,"Charleston Southern, High Point",Coastal Carolina,2015
+30,Ohio Valley Conference,12,190,192,0.497,-4.99,-3.44,0,1,0,"Belmont (East), Eastern Kentucky (East), Murray State (West)",Belmont,2015
+31,Mid-Eastern Athletic Conference,13,171,251,0.405,-12.87,-7.36,0,1,0,North Carolina Central,Hampton,2015
+32,Southwest Athletic Conference,10,120,198,0.377,-15.63,-8.87,0,1,0,Texas Southern,Texas Southern,2015
+33,Southland Conference,13,196,207,0.486,-9.02,-5.7,0,1,0,Stephen F. Austin,Stephen F. Austin,2015
