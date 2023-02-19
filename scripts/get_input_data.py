@@ -40,30 +40,28 @@ conf_dfs = []
 coaches_dfs = []
 for year in tqdm(range(2013, 2023)):
     # check to see if df is already there
-    if f'coaches_polls_{year}.csv' in os.listdir('../data/coaches_polls/'):
-        print()
-        conf_df = pd.read_csv(f'../data/conference_summaries/conference_summary_{year}.csv')
-        coaches_df = pd.read_csv(f'../data/coaches_polls/coaches_polls_{year}.csv')
+    if f'coaches_polls_{year}.csv' in os.listdir('./data/coaches_polls/'):
+        conf_df = pd.read_csv(f'./data/conference_summaries/conference_summary_{year}.csv')
+        coach_df = pd.read_csv(f'./data/coaches_polls/coaches_polls_{year}.csv')
     else:
-        conf_df, coaches_df = get_data_coaches_poll_and_conf_summary(year)
+        conf_df, coach_df = get_data_coaches_poll_and_conf_summary(year)
         # wait 12 seconds before making another call
         time.sleep(12)
         # add year columns
         conf_df['year'] = year
-        coaches_df['year'] = year
+        coach_df['year'] = year
         # save each to csv
         conf_df.to_csv(
-            f'../data/conference_summaries/conference_summary_{year}.csv', index=False)
-        coaches_df.to_csv(f'../data/coaches_polls/coaches_polls_{year}.csv', index=False)
+            f'./data/conference_summaries/conference_summary_{year}.csv', index=False)
+        coach_df.to_csv(f'./data/coaches_polls/coaches_polls_{year}.csv', index=False)
     # append to larger list
     conf_dfs.append(conf_df)
-    coaches_dfs.append(coaches_dfs)
+    coaches_dfs.append(coach_df)
 
 # combine all dfs into large dfs
 final_conf_df = pd.concat(conf_dfs)
-#final_coaches_df = pd.concat(coaches_dfs)
+final_coaches_df = pd.concat(coaches_dfs)
 
 # save both to csv's
-
-final_conf_df.to_csv('../data/conference_summaries/conference_summaries.csv', index=False)
-#final_coaches_df.to_csv('../data/coaches_polls/coaches_polls.csv', index=False)
+final_conf_df.to_csv('./data/conference_summaries/conference_summaries.csv', index=False)
+final_coaches_df.to_csv('./data/coaches_polls/coaches_polls.csv', index=False)
